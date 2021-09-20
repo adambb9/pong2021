@@ -1,7 +1,7 @@
 # Lets write the pong game
 from turtle import Screen, Turtle
 import time
-from paddle import Paddle
+from paddle import Paddle 
 from ball import Ball
 from scoreboard import Scoreboard
 
